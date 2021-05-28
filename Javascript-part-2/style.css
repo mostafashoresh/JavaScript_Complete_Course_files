@@ -1,0 +1,23 @@
+.todoapp {
+    border: 1px solid gray;
+    max-width: 300px;
+    padding: 1rem;
+    margin: 0 auto;
+}
+
+ul.todoItems {
+    list-style-type: none;
+    margin-top: 2rem;
+    padding-left: 0;
+}
+
+li.todoItem {
+    padding: 0.5rem 5px;
+    margin: 5px 0;
+    border: 1px solid gray;
+    
+}
+i.fa.fa-close {
+    color: red;
+    float: right;
+}
